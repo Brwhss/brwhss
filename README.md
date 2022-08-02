@@ -1,16 +1,18 @@
-### Hi there 👋
+<div align="center">
+  <a href="/">
+    <img src="https://github.com/Brwhss/brwhss/blob/main/assets/banner-github.png"/>
+  </a>
+</div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/bruna-s-silveira/" target="blank">
+    <img width='70px' height='70px' src="https://github.com/Brwhss/brwhss/blob/main/assets/icon-ldin.png"/>
+  </a>
 
-<!--
-**Brwhss/brwhss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://www.instagram.com/bruhss_/" target="blank">
+    <img width='70px'height='70px'src="https://github.com/Brwhss/brwhss/blob/main/assets/icon-ig.png">   
+  </a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://steamcommunity.com/id/brwhss/" target="blank">
+    <img width='70px' height='70px'src="https://github.com/Brwhss/brwhss/blob/main/assets/icon-steam.png"/>
+  </a>
+</div>
